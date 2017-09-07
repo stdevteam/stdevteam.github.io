@@ -1,4 +1,3 @@
-# stdevteam.github.io
 STDev Github frontpage
 ==========
 
